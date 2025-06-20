@@ -8,7 +8,7 @@ docker run --rm -ti ophigeni/raw:mate
 
 # Quick Shoot
 
-apt-get update && apt-get install git -y && git clone https://github.com/ophigeni/seleferry && cd seleran && bash install.txt && cd tests && source venv/bin/activate && bash 1.txt
+apt-get update && apt-get install git -y && git clone https://github.com/ophigeni/seleferry && cd seleferry && bash install.txt && cd tests && source venv/bin/activate && bash 1.txt
 
 
 # Pre
@@ -19,7 +19,7 @@ apt-get install git -y
 
 git clone https://github.com/ophigeni/seleferry
 
-cd seleran
+cd seleferry
 
 bash install.txt
 
