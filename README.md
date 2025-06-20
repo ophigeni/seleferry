@@ -17,7 +17,7 @@ apt-get update
 
 apt-get install git -y
 
-git clone https://github.com/ophigeni/seleran
+git clone https://github.com/ophigeni/seleferry
 
 cd seleran
 
