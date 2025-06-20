@@ -2,7 +2,8 @@
 
 # Install Docker
 
-\\\docker run --rm -ti ophigeni/raw:xfce\\\
+```bash
+docker run --rm -ti ophigeni/raw:xfce
 
 docker run --rm -ti ophigeni/raw:mate
 
